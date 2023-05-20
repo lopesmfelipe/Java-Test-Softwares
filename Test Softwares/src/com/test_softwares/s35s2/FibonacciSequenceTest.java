@@ -15,9 +15,9 @@ public class FibonacciSequenceTest {
 			y = auxiliar;
 		}*/
 
-		
-		System.out.println(FibonacciSequence.fibonacci(10)); // sequência de fibonacci usando um método recursivo
-		
+		for (int i = 0; i < 4; i++) {
+		System.out.print(FibonacciSequence.fibonacci(i) + " "); // sequência de fibonacci usando um método recursivo
+		}
 		
 		
 	}
