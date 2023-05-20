@@ -4,11 +4,10 @@ public class PlusRecursiveMethod {
 
 	public static int somatorioRecursivo(int n) {
 		
-		int soma = n;
-		if (soma == 1) {
-			return soma;
+		if (n == 1) {
+			return 1;
 		}
-		return soma + somatorioRecursivo(n - 1);
+		return n + somatorioRecursivo(n - 1);
 		
 	}
 	
