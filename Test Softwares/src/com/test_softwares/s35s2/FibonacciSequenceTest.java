@@ -5,7 +5,7 @@ public class FibonacciSequenceTest {
 	public static void main(String[] args) {
 
 		// sequência de fibonacci usando um loop normal
-		int x = 1;
+		/*int x = 1;
 		int y = 0;
 		int auxiliar;
 		for (int i = 0; i < 30; i++) {  
@@ -13,10 +13,10 @@ public class FibonacciSequenceTest {
 			auxiliar = x;
 			x = x + y;
 			y = auxiliar;
-		}
+		}*/
 
 		
-		System.out.println(); // sequência de fibonacci usando um método recursivo
+		System.out.println(FibonacciSequence.fibonacci(10)); // sequência de fibonacci usando um método recursivo
 		
 		
 		
