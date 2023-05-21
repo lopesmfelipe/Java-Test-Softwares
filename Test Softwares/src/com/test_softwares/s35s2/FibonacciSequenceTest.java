@@ -8,7 +8,7 @@ public class FibonacciSequenceTest {
 		int x = 1;
 		int y = 0;
 		int auxiliar;
-		for (int i = 0; i < 30; i++) {  
+		for (int i = 0; i < 5; i++) {  
 			System.out.println(x);
 			auxiliar = x;
 			x = x + y;
