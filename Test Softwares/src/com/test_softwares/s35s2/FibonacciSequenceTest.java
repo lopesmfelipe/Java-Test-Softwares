@@ -17,7 +17,7 @@ public class FibonacciSequenceTest {
 
 		// sequência de fibonacci usando um método recursivo
 		for (int i = 0; i < 5; i++) {
-		System.out.print(FibonacciSequence.fibonacci(i) + " "); // sequência de fibonacci usando um método recursivo
+			System.out.print(FibonacciSequence.fibonacci(i) + " "); // sequência de fibonacci usando um método recursivo
 		}
 		
 		
