@@ -10,6 +10,7 @@ public class Salario {
 		Scanner scan = new Scanner(System.in);
 		
 		System.out.println("Quantas horas você trabalha por mês?");
+		Scanner scan2 = new Scanner(System.in);
 	}
 
 }
