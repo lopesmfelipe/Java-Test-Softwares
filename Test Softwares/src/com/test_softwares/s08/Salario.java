@@ -1,4 +1,4 @@
-package com.test_softwares.s07;
+package com.test_softwares.s08;
 
 import java.util.Scanner;
 
