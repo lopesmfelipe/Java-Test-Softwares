@@ -9,7 +9,7 @@ public class Salario {
 		System.out.println("Quanto você ganha por hora?");
 		Scanner scan = new Scanner(System.in);
 		
-		
+		System.out.println("Quantas horas você trabalha por mês?");
 	}
 
 }
