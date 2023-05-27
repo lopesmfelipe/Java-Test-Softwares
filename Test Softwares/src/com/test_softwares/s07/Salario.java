@@ -6,7 +6,7 @@ public class Salario {
 
 	public static void main(String[] args) {
 		
-		System.out.println();
+		System.out.println("Quanto você ganha por hora?");
 		Scanner scan = new Scanner(System.in);
 		
 		
