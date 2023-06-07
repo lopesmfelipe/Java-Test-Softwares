@@ -8,7 +8,7 @@ public class Main {
 		
 		Scanner scanner01 = new Scanner(System.in);
 		
-		
+		System.out.println("Report the temperature in degrees fahrenheit");
 	}
 
 }
