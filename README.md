@@ -1,2 +1,2 @@
-# Java-Test-Software
-Software to test java features and concepts.
+# Java Tests
+Java programs to test and learn java features and concepts.
